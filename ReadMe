@@ -1,0 +1,7 @@
+------------------------ SorVis ------------------------
+
+  This program will show you how certain sorting algorithms work.
+  I tried my best, to visualize how they (algorithms) work step by step.
+  In addition I will add more explanations and tooltips how to use them.
+  All algoruthms that can work recursively (MergeSort done, QucikSort not yet), have been implemented iteratively.
+  
