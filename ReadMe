@@ -5,4 +5,5 @@
   In addition I will add more explanations and tooltips how to use them.
   MergeSort has been implemented iteratively.
   
-  ! Random Error occurs while using MergeSort !
+  !!!!!!!!!!!!!!!! Random Error occurs while using MergeSort !!!!!!!!!!!!!!!
+  It occures less often after last patch but still happens from time to time.
